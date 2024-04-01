@@ -1,2 +1,3 @@
 file2 : remote
  update file2 : master 
+file2: update remote
